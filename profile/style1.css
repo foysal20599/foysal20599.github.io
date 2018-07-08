@@ -1,0 +1,59 @@
+#id
+{
+	color:blue;
+	font-size:20px;
+	text-align:center;
+	border:5px solid red;
+	letter-spacing:1px;
+	line-height:2
+}
+img
+{
+	display: block;
+    margin: 0 auto;
+}
+
+div
+{
+	background-color:yellow;
+	border:5px solid red;
+	text-align:center;
+
+}
+#id1
+{
+	color:red;
+}
+
+
+/*body
+{
+	background-image: url(image/mm.jpg);
+}*/
+html
+{
+	background-color:#3cb371;
+}
+
+ul  
+{    list-style-type: circle;
+	color:yellow;
+	font-size:15px;
+	
+}
+/*ol 
+{
+   color:blue;
+	font-size:15px;
+	text-align:center;
+}*/
+h1
+{
+	margin: 0; 
+	padding :20px 0:
+	color:black;
+	text-shadow: 4px 2px 1px black;
+	color:red;
+	font-size:40px;
+	text-align:center;
+}
